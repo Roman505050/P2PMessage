@@ -1,0 +1,78 @@
+# Build results
+bin/
+obj/
+
+# NuGet packages
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Rider
+.idea/
+
+# Visual Studio
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# JetBrains Rider
+.idea/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Microsoft Azure Web App publish settings
+.publishsettings
+
+# Local History for Visual Studio Code
+.history/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+
+# Configuration files
+*.config
+*.xml
+
+# Environment files
+.env
+*.env
+
+# Dotnet build output
+*.dll
+*.exe
+*.pdb
+*.cache
+*.csproj.user
+*.suo
+*.user
+*.log
+
+# Debugger files
+*.tlog/
+*.dSYM/

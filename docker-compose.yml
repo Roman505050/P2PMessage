@@ -1,0 +1,6 @@
+﻿services:
+  p2pmessage:
+    image: p2pmessage
+    build:
+      context: .
+      dockerfile: P2PMessage/Dockerfile
